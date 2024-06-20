@@ -1,4 +1,5 @@
-(Laravel Framework 9.52.16 ) A laravel project with CRUD operations :
+## CRUD  
+ Laravel Version 9 Project to understand CRUD operation
 
 To create project 
 >composer create-project laravel/laravel new-project
